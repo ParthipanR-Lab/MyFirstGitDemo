@@ -1,3 +1,0 @@
-Hello, Welcome to Git
-Second Line to the Second Commit.
-
