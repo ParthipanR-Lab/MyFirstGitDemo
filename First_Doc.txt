@@ -3,3 +3,4 @@ Second Line to the Second Commit.
 Third line to check the untracking of the file for third commit
 TextAdded for the Feature-3 branch
 5th Line added from Local repo to push remote git hub
+Text line added to fetch and merge with local.
